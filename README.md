@@ -1,4 +1,4 @@
-# PurpleDotfiles
+# Dotfiles
 Personal dotfiles
 
 Someone's themes:
